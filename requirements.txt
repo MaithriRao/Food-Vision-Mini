@@ -2,3 +2,4 @@ torch
 torchvision
 gradio
 numpy
+pydantic==2.10.6
