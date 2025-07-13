@@ -23,7 +23,7 @@ Food Vision Mini is a deep learning-based application designed to identify and c
 * **Image Classification:** Utilizes a PyTorch-based convolutional neural network.
 * **Interactive Web Interface:** Built using [Gradio](https://gradio.app/).
 * **Containerization:** Includes a `Dockerfile` for easy and consistent deployment across different environments using [Docker](https://www.docker.com/).
-* **Cloud Deployment:** Live demo available on [Hugging Face Spaces](https://huggingface.co/spaces/your_username/your_space_name).
+* **Cloud Deployment:** Live demo available on [Hugging Face Spaces](https://huggingface.co/spaces/Maithri/foodvision_mini).
 
 ## Getting Started
 
