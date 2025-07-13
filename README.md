@@ -31,6 +31,6 @@ To run this application locally using Docker:
 
 1.  Clone this repository: `git clone https://github.com/your_username/Food-Vision-Mini.git`
 2.  Navigate to the project directory: `cd Food-Vision-Mini`
-3.  Build the Docker image: `docker build -t food-vision-mini .`
-4.  Run the Docker container: `docker run -p 7860:7860 food-vision-mini`
+3.  Build the Docker image: `docker build -t gradio-app .`
+4.  Run the Docker container: `docker run -p 7860:7860 gradio-app`
 5.  Access the Gradio interface in your browser at `http://localhost:7860`.
